@@ -179,7 +179,8 @@ img{
     padding: 3.2rem 0;
 }
 .product-col-left{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("https://cdn.sanity.io/images/92ui5egz/production/2497f4a476d63730cc77e9b156d0f71bbe2624e4-1920x1080.jpg?w=1200&h=675&fit=crop&auto=format") center/cover no-repeat;
+}
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("") center/cover no-repeat;
 }
 .product-col-r-top{
     background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("https://cdn.sanity.io/images/92ui5egz/production/0d3d19c7fa53f455b3da82245467abef75e95e58-1920x1080.jpg?w=1200&h=675&fit=crop&auto=format") center/cover no-repeat;
